@@ -1,0 +1,16 @@
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\obj\Debug\net5.0\Exercise_1.csprojAssemblyReference.cache
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\obj\Debug\net5.0\Exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\obj\Debug\net5.0\Exercise_1.AssemblyInfoInputs.cache
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\obj\Debug\net5.0\Exercise_1.AssemblyInfo.cs
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\obj\Debug\net5.0\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\bin\Debug\net5.0\Exercise_1.exe
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\bin\Debug\net5.0\Exercise_1.deps.json
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\bin\Debug\net5.0\Exercise_1.runtimeconfig.json
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\bin\Debug\net5.0\Exercise_1.runtimeconfig.dev.json
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\bin\Debug\net5.0\Exercise_1.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\bin\Debug\net5.0\ref\Exercise_1.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\bin\Debug\net5.0\Exercise_1.pdb
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\obj\Debug\net5.0\Exercise_1.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\obj\Debug\net5.0\ref\Exercise_1.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\obj\Debug\net5.0\Exercise_1.pdb
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\Selection\Selection_Task2\Exercise_1\obj\Debug\net5.0\Exercise_1.genruntimeconfig.cache
