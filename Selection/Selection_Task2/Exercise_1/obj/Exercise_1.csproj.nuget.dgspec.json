@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Scott\\Desktop\\Swinburne 2021\\C-Tasks-and-projects\\Projects\\Selection\\Selection_Task2\\Exercise_1\\Exercise_1.csproj": {}
+    "C:\\Users\\Scott\\Desktop\\Swinburne 2021\\C-Tasks-and-projects\\Projects\\C-2021\\Selection\\Selection_Task2\\Exercise_1\\Exercise_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Scott\\Desktop\\Swinburne 2021\\C-Tasks-and-projects\\Projects\\Selection\\Selection_Task2\\Exercise_1\\Exercise_1.csproj": {
+    "C:\\Users\\Scott\\Desktop\\Swinburne 2021\\C-Tasks-and-projects\\Projects\\C-2021\\Selection\\Selection_Task2\\Exercise_1\\Exercise_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Scott\\Desktop\\Swinburne 2021\\C-Tasks-and-projects\\Projects\\Selection\\Selection_Task2\\Exercise_1\\Exercise_1.csproj",
+        "projectUniqueName": "C:\\Users\\Scott\\Desktop\\Swinburne 2021\\C-Tasks-and-projects\\Projects\\C-2021\\Selection\\Selection_Task2\\Exercise_1\\Exercise_1.csproj",
         "projectName": "Exercise_1",
-        "projectPath": "C:\\Users\\Scott\\Desktop\\Swinburne 2021\\C-Tasks-and-projects\\Projects\\Selection\\Selection_Task2\\Exercise_1\\Exercise_1.csproj",
+        "projectPath": "C:\\Users\\Scott\\Desktop\\Swinburne 2021\\C-Tasks-and-projects\\Projects\\C-2021\\Selection\\Selection_Task2\\Exercise_1\\Exercise_1.csproj",
         "packagesPath": "C:\\Users\\Scott\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Scott\\Desktop\\Swinburne 2021\\C-Tasks-and-projects\\Projects\\Selection\\Selection_Task2\\Exercise_1\\obj\\",
+        "outputPath": "C:\\Users\\Scott\\Desktop\\Swinburne 2021\\C-Tasks-and-projects\\Projects\\C-2021\\Selection\\Selection_Task2\\Exercise_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Scott\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -9,7 +9,7 @@ namespace Exercise_1
             // Uncomment the one you need to check
             // Task1();
             // Task2();
-            Task3();
+            // Task3();
         }
         
         public static void Task1()
@@ -52,7 +52,7 @@ namespace Exercise_1
             }
             else
             {
-                Console.WriteLine("I am sorry there are only 3 genders. Male, female and sexually identifying as an Attack helicopter. You may not like it but this is peak gender. Is will make you an attack helicopter for now. You're welcome");
+                Console.WriteLine("I am sorry there are only 3 genders. Male, female and sexually identifying as an Attack helicopter. You may not like it but this is peak gender. I will make you an attack helicopter for now. You're welcome");
                 gender = "n Attack Helicoper";
             }
 
