@@ -1,0 +1,16 @@
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\bin\Debug\net5.0\4NestedRepetition.exe
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\bin\Debug\net5.0\4NestedRepetition.deps.json
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\bin\Debug\net5.0\4NestedRepetition.runtimeconfig.json
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\bin\Debug\net5.0\4NestedRepetition.runtimeconfig.dev.json
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\bin\Debug\net5.0\4NestedRepetition.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\bin\Debug\net5.0\ref\4NestedRepetition.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\bin\Debug\net5.0\4NestedRepetition.pdb
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\obj\Debug\net5.0\4NestedRepetition.csprojAssemblyReference.cache
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\obj\Debug\net5.0\4NestedRepetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\obj\Debug\net5.0\4NestedRepetition.AssemblyInfoInputs.cache
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\obj\Debug\net5.0\4NestedRepetition.AssemblyInfo.cs
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\obj\Debug\net5.0\4NestedRepetition.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\obj\Debug\net5.0\4NestedRepetition.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\obj\Debug\net5.0\ref\4NestedRepetition.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\obj\Debug\net5.0\4NestedRepetition.pdb
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\4NestedRepetition\obj\Debug\net5.0\4NestedRepetition.genruntimeconfig.cache
