@@ -10,12 +10,23 @@ namespace Ex2
             string Name = Console.ReadLine();
             Console.WriteLine("How many times do you want to print it?");
             int NameCount = int.Parse(Console.ReadLine());
+            int LineCount = NameCount;
+            int WriteCount = NameCount;
 
-            while (NameCount > 0)
+            while (LineCount > 0)
             {
-                Console.Write(Name + " ");
-                NameCount --;
+                while (WriteCount > 0)
+                {
+                    Console.Write(Name + " ");
+                    WriteCount --;
+                }
+                Console.WriteLine();
+                LineCount --;
+                WriteCount = NameCount;
+                
+
             }
+
             
 
 
