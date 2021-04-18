@@ -6,7 +6,8 @@ namespace Variable_Task
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please input your first name");
+                        
+            Console.WriteLine("Please input your first  name");
             string FirstName = Console.ReadLine();
             Console.WriteLine("\n" + FirstName);
             
@@ -19,18 +20,15 @@ namespace Variable_Task
             Console.WriteLine("\n" + StudentID);
             
             Console.WriteLine("Please input the year you were born");
-            string YOB = Console.ReadLine();
+            int YOB = int.Parse(Console.ReadLine());
             Console.WriteLine("\n" + YOB);
 
             Console.WriteLine("Please input the current year");
-            string CurrentYear = Console.ReadLine();
+            int CurrentYear = int.Parse(Console.ReadLine());
             Console.WriteLine("\n" + CurrentYear);
 
-            int year = int.Parse(YOB);
-            int TheCurrentYear = int.Parse(CurrentYear);
+            Console.WriteLine($"Hi There {FirstName} {LastName}, it seems you are {CurrentYear - YOB} years old.");
 
-            Console.WriteLine($"Hi There {FirstName} {LastName}, it seems you are {TheCurrentYear - year} years old.");
-            
 
         }
     }

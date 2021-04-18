@@ -14,3 +14,19 @@ C:\Users\Scott\Project\Variable_Task\obj\Debug\net5.0\Variable_Task.dll
 C:\Users\Scott\Project\Variable_Task\obj\Debug\net5.0\ref\Variable_Task.dll
 C:\Users\Scott\Project\Variable_Task\obj\Debug\net5.0\Variable_Task.pdb
 C:\Users\Scott\Project\Variable_Task\obj\Debug\net5.0\Variable_Task.genruntimeconfig.cache
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\bin\Debug\net5.0\Variable_Task.exe
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\bin\Debug\net5.0\Variable_Task.deps.json
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\bin\Debug\net5.0\Variable_Task.runtimeconfig.json
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\bin\Debug\net5.0\Variable_Task.runtimeconfig.dev.json
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\bin\Debug\net5.0\Variable_Task.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\bin\Debug\net5.0\ref\Variable_Task.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\bin\Debug\net5.0\Variable_Task.pdb
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\obj\Debug\net5.0\Variable_Task.csprojAssemblyReference.cache
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\obj\Debug\net5.0\Variable_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\obj\Debug\net5.0\Variable_Task.AssemblyInfoInputs.cache
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\obj\Debug\net5.0\Variable_Task.AssemblyInfo.cs
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\obj\Debug\net5.0\Variable_Task.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\obj\Debug\net5.0\Variable_Task.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\obj\Debug\net5.0\ref\Variable_Task.dll
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\obj\Debug\net5.0\Variable_Task.pdb
+C:\Users\Scott\Desktop\Swinburne 2021\C-Tasks-and-projects\Projects\C-2021\1Variable_Task\obj\Debug\net5.0\Variable_Task.genruntimeconfig.cache
