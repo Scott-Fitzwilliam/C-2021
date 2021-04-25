@@ -75,14 +75,14 @@ namespace selectionassignment
             int test = 10;
             
                 //if (username = SavedUser)
-                 if (test = 10)
+                 if (test == 10)
             {
                 
                 Console.Write("Enter Password: ");
                 string password =Console.ReadLine();
                 string SavedPassWord = "Jamie1974";            
                 
-                if (password = SavedPassWord)
+                if (password == SavedPassWord)
                 {
                     Console.WriteLine("login successful");
                     Console.WriteLine("press enter to continue");
