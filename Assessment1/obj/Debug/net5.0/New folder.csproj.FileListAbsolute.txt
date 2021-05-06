@@ -1,0 +1,16 @@
+C:\Users\103116463\OneDrive - Swinburne University\New folder\bin\Debug\net5.0\New folder.exe
+C:\Users\103116463\OneDrive - Swinburne University\New folder\bin\Debug\net5.0\New folder.deps.json
+C:\Users\103116463\OneDrive - Swinburne University\New folder\bin\Debug\net5.0\New folder.runtimeconfig.json
+C:\Users\103116463\OneDrive - Swinburne University\New folder\bin\Debug\net5.0\New folder.runtimeconfig.dev.json
+C:\Users\103116463\OneDrive - Swinburne University\New folder\bin\Debug\net5.0\New folder.dll
+C:\Users\103116463\OneDrive - Swinburne University\New folder\bin\Debug\net5.0\ref\New folder.dll
+C:\Users\103116463\OneDrive - Swinburne University\New folder\bin\Debug\net5.0\New folder.pdb
+C:\Users\103116463\OneDrive - Swinburne University\New folder\obj\Debug\net5.0\New folder.csprojAssemblyReference.cache
+C:\Users\103116463\OneDrive - Swinburne University\New folder\obj\Debug\net5.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103116463\OneDrive - Swinburne University\New folder\obj\Debug\net5.0\New folder.AssemblyInfoInputs.cache
+C:\Users\103116463\OneDrive - Swinburne University\New folder\obj\Debug\net5.0\New folder.AssemblyInfo.cs
+C:\Users\103116463\OneDrive - Swinburne University\New folder\obj\Debug\net5.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\103116463\OneDrive - Swinburne University\New folder\obj\Debug\net5.0\New folder.dll
+C:\Users\103116463\OneDrive - Swinburne University\New folder\obj\Debug\net5.0\ref\New folder.dll
+C:\Users\103116463\OneDrive - Swinburne University\New folder\obj\Debug\net5.0\New folder.pdb
+C:\Users\103116463\OneDrive - Swinburne University\New folder\obj\Debug\net5.0\New folder.genruntimeconfig.cache
